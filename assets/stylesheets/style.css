@@ -1,0 +1,67 @@
+
+nav {
+  color: white;
+}
+body {
+  margin-top:51px;
+  box-sizing: border-box;
+}
+#jumbotron  {
+  background-image: url("../images/travel_hero.jpg");
+  height: 460px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 0;
+}
+.container  {
+  text-align: center;
+}
+#flags  {
+  background-color: black;
+  height: 500px;
+}
+.col-xs-3 {
+  padding: 10px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 480px;
+  /*border: 1px solid red;*/
+  margin: 10px;
+  background-color: #FFFFFF;
+  width: 23.5%;
+  text-align: center;
+  padding-top: 320px;
+
+}
+.col-xs-3 p  {
+  color: lightblue;
+}
+
+#flag1  {
+  background-image: url("../images/aruba_flag.svg");
+
+}
+#flag2  {
+  background-image: url("../images/chile_flag.svg");
+}
+#flag3  {
+  background-image: url("../images/italy_flag.svg");
+}
+#flag4  {
+  background-image: url("../images/spain_flag.svg");
+}
+#statTable  {
+  height: 200px;
+  margin-bottom: 51px;
+}
+#myInfo {
+  text-align: center;
+  padding: 15px;
+}
+li.footer {
+  float:right;
+}
+/*table {
+  height: 200px;
+
+}*/
