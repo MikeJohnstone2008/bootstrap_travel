@@ -12,6 +12,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 0;
+  color: white;
 }
 .container  {
   text-align: center;
@@ -39,7 +40,7 @@ body {
 
 #flag1  {
   background-image: url("../images/aruba_flag.svg");
-
+margin-left: 20px;
 }
 #flag2  {
   background-image: url("../images/chile_flag.svg");
@@ -58,8 +59,8 @@ body {
   text-align: center;
   padding: 15px;
 }
-li.footer {
-  float:right;
+#footer  {
+  float: right;
 }
 /*table {
   height: 200px;
